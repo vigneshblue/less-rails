@@ -3,7 +3,7 @@ module Less
   end
 end
 
-require 'less'
+#require 'less'
 require 'rails'
 require 'sprockets'
 begin
